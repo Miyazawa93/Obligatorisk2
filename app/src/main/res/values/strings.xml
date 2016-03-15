@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inventorylist</string>
+    <string name="action_end">Avslutt</string>
+    <string name="action_about">About</string>
+    <string name="ok" />
+    <string name="cancel" />
+</resources>
